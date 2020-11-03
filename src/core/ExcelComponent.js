@@ -1,4 +1,4 @@
-import {DomListener} from '@core/DomListiner';
+import {DomListener} from '@core/DomListener';
 
 export class ExcelComponent extends DomListener {
   // Возвращает шаблон компонента
